@@ -1,0 +1,2 @@
+# infinity_auto_plant_gather
+无限暖暖自动种植收获脚本
